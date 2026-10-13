@@ -18,6 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
         <docker.image.prefix>devops</docker.image.prefix>
+        <sonar.organization>mytestj</sonar.organization>
     </properties>
 
     <dependencies>
