@@ -8,7 +8,7 @@
 
     <groupId>in.shan5a6</groupId>
     <artifactId>myweb</artifactId>
-    <version>0.12.12</version>
+    <version>0.12.13</version>
     <packaging>war</packaging>
 
     <name>myweb Maven Webapp</name>
